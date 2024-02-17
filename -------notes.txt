@@ -1,0 +1,14 @@
+- create mongodb database (factory) with collection (products)
+
+- add to .env
+    MONGODB_CONNECTION='mongodb://localhost:27017/factory'
+
+- > npm i mongodb
+
+
+-----------------------------------------------------
+
+mongoose
+
+- > npm i mongoose
+
